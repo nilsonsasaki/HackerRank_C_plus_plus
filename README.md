@@ -1,4 +1,4 @@
-# HackerRank-C_language
+# HackerRank_Cpp
  My name is Nilson Takayuki Sasaki, I'm a Electrical Engineering graduation student in the University of São Paulo in São Carlos, im studyng embebedded systems so i made this repository to learn and pratice C++ language
 
  If you have some suggestions, please message me.
